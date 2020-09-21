@@ -1,0 +1,5 @@
+{
+  "mongoURIAtlas": "mongodb+srv://admin:admin@mongo-of-dong-xyphl.mongodb.net/hotels?retryWrites=true&w=majority",
+  "mongoLocal": "mongodb://localhost/hotels",
+  "jwtSecret": "nguyenhophudong"
+}
